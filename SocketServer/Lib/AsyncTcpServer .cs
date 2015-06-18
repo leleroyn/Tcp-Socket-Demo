@@ -373,7 +373,7 @@ namespace SocketServer.Lib
                             listener = null;
                         }
                     }
-                    catch (SocketException ex)
+                    catch (SocketException)
                     {
                         //ExceptionHandler.Handle(ex);
                     }
