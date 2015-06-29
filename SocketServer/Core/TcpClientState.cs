@@ -4,7 +4,7 @@ using System.Linq;
 using System.Net.Sockets;
 using System.Text;
 
-namespace SocketServer.Lib
+namespace SocketServer.Core
 {
     /// <summary>
     /// Internal class to join the TCP client and buffer together

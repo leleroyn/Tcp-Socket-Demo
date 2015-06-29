@@ -4,7 +4,7 @@ using System.Linq;
 using System.Net.Sockets;
 using System.Text;
 
-namespace SocketServer.Lib
+namespace SocketServer.Core
 {
     /// <summary>
     /// 与客户端的连接已断开事件参数

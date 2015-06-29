@@ -46,11 +46,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Lib\AsyncTcpServer .cs" />
-    <Compile Include="Lib\TcpClientDisconnectedEventArgs.cs" />
-    <Compile Include="Lib\TcpDatagramReceivedEventArgs.cs" />
-    <Compile Include="Lib\TcpClientState.cs" />
-    <Compile Include="Lib\TcpClientConnectedEventArgs.cs" />
+    <Compile Include="Core\AsyncTcpServer .cs" />
+    <Compile Include="Core\TcpClientDisconnectedEventArgs.cs" />
+    <Compile Include="Core\TcpDatagramReceivedEventArgs.cs" />
+    <Compile Include="Core\TcpClientState.cs" />
+    <Compile Include="Core\TcpClientConnectedEventArgs.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
