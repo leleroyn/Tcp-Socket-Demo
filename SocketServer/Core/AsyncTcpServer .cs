@@ -375,7 +375,7 @@ namespace SocketServer.Core
                     }
                     catch (SocketException)
                     {
-                        //ExceptionHandler.Handle(ex);
+                        throw;
                     }
                 }
 
